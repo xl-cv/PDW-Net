@@ -1,0 +1,1 @@
+We currently provide the weights of two models trained on the RW2AH dataset for 600 epochs, while the complete models are trained for 1000 epochs. All complete code and weights will be open-sourced upon acceptance by the journal. The model download link via Baidu Netdisk is as follows: https://pan.baidu.com/s/1bnySeU-rj5wTH86TEZguqQ?pwd=dedy
